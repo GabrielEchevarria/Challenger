@@ -20,6 +20,7 @@ r = requests.get(url)
 a=r.json()
 
 path=nombreapi+formato+aniomes
+# Valido la existencia del directorio
 if not os.path.exists(path):
     os.makedirs(path, exist_ok=True)
 
