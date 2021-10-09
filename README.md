@@ -1,3 +1,5 @@
+# Readme
+
 Scripts y Jupiter Notebook para Desafío Nubimetrics para el área de datos perfiles Semi Senior
 Gabriel Echevarria
 gaechevarria@gmail.com
