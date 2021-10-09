@@ -1,5 +1,6 @@
 /*
 Desafío 12: SQL 2
+Este desafio me dio trabajo entenderlo
 */
 SELECT  re.[Name] country_name, cu.[Name] currency_name,  
 		round( max(ra.AverageRate),2) currency_rate, round(avg(tr.TaxRate),2) average_tax_rate
