@@ -26,3 +26,5 @@ if not os.path.exists(path):
 
 with open(path+'/'+nombreapi+categoria+'.'+formato, 'w') as outfile:
     json.dump(a, outfile)
+
+# Prueba
